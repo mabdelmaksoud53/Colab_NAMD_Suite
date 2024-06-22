@@ -44,6 +44,7 @@ This repository is where you can find a Jupyter Notebook script for running Mole
 
 8. Automation and Reproducibility: Colab's notebook interface allows for the creation of well-documented, reproducible workflows. You can automate your simulations and analysis, making it easier to reproduce and verify your results.
 
+---
 **Start Now** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mabdelmaksoud53/Colab_NAMD_Suite/MD_NAMD_suit.ipynb)  - `Using NAMD suit`
 
 ---
