@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
+
 ## Hello there!
 
 Welcome to Colab_NAMD_suit, your gateway to running powerful MD simulations! 
