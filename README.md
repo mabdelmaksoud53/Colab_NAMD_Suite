@@ -13,16 +13,16 @@ This repository is where you can find a Jupyter Notebook script for running Mole
 
 ---
 **Tools and Platforms**
-1. CHARMM-GUI: Structure Preparation:
+1. CHARMM-GUI:
 - CHARMM-GUI provides an intuitive web-based interface for preparing complex molecular systems. It automates the generation of input files required for MD simulations, ensuring that the system is properly parameterized and ready for simulation.
 
-2. Google Drive: Centralized Storage.
+2. Google Drive:
 - Google Drive offers secure and accessible cloud storage for all input and output files. By storing files on Google Drive, researchers can easily share data, collaborate with others, and ensure their files are safely backed up.
 
-3. Google Colab: Computational Resources:
+3. Google Colab:
 - Google Colab provides free access to powerful computational resources, including GPUs essential for running computationally intensive MD simulations. It also offers an interactive environment for scripting and executing simulations.
 
-4. NAMD: High-Performance MD Engine:
+4. NAMD:
 - NAMD is a widely used and highly optimized MD simulation engine known for its efficiency in handling large biomolecular systems. Integrating NAMD with Google Colab enables researchers to perform large-scale simulations without needing local high-performance computing resources.
 
 ---
