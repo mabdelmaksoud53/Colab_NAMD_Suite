@@ -1,5 +1,3 @@
-# Colab_NAMD_Suite
-
 ## Hello there!
 
 Welcome to Colab_NAMD_suit, your gateway to running powerful MD simulations! 
