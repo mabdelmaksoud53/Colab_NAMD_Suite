@@ -45,3 +45,17 @@ This repository is where you can find a Jupyter Notebook script for running Mole
 7. Up-to-date Software: Colab notebooks often come pre-installed with the latest versions of popular scientific libraries and tools, ensuring that you have access to the latest features and improvements without needing to handle installations and updates manually.
 
 8. Automation and Reproducibility: Colab's notebook interface allows for the creation of well-documented, reproducible workflows. You can automate your simulations and analysis, making it easier to reproduce and verify your results.
+
+**Start Now** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mabdelmaksoud53/Colab_NAMD_Suite/MD_NAMD_suit.ipynb)  - `Using NAMD suit`
+
+---
+**Bugs**
+- If you encounter any bugs, please report the issue to https://github.com/mabdelmaksoud53/Colab_NAMD_Suite/issues
+
+---
+## Follow Me
+
+[![ResearchGate](https://img.shields.io/badge/Follow%20me%20on-ResearchGate-00A98F?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mostafa-Abd-El-Maksoud)
+[![YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@mabdelmaksoud)
+[![Facebook](https://img.shields.io/badge/Follow%20me%20on-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ph.mostsfa)
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mostafa-sayed-abd-elmaksoud)
