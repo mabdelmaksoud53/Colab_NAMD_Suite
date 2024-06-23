@@ -4,10 +4,10 @@
 
 ## Hello there!
 
-Welcome to Colab_NAMD_suit, your gateway to running powerful MD simulations! 
+- Welcome to Colab_NAMD_suit, your gateway to running powerful MD simulations! 
 This repository provides a comprehensive setup for leveraging the computational power of Google Colab to perform MD simulations efficiently and cost-effectively.
+- This repository is where you can find a Jupyter Notebook script for running Molecular Dynamics (MD) simulations using NAMD (Nanoscale Molecular Dynamics) for **Protein and Ligand** systems on Google Colab. I encourage you to watch this [tutorial](https://youtu.be/) before using this pipeline.
 
-This repository is where you can find a Jupyter Notebook script for running Molecular Dynamics (MD) simulations using NAMD (Nanoscale Molecular Dynamics) for **Protein and Ligand** systems on Google Colab. I encourage you to watch this [tutorial](https://youtu.be/) before using this pipeline.
 ---
 
 > [!IMPORTANT]
