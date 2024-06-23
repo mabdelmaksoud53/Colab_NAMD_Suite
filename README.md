@@ -1,5 +1,5 @@
 [![version](https://img.shields.io/badge/version-1.0v-orange)](https://github.com/mabdelmaksoud53/Colab_NAMD_Suite)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mabdelmaksoud53/Colab_NAMD_Suite/blob/main/LICENSE) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mabdelmaksoud53/Colab_NAMD_Suite/blob/main/MD_NAMD_suit.ipynb)
 
 ## Hello there!
