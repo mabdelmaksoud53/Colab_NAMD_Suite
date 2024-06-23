@@ -1,4 +1,4 @@
-[![version](https://img.shields.io/badge/version-1.0.0-orange)](https://github.com/mabdelmaksoud53/Colab_NAMD_Suite)
+[![version](https://img.shields.io/badge/version-1.0.v-orange)](https://github.com/mabdelmaksoud53/Colab_NAMD_Suite)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mabdelmaksoud53/Colab_NAMD_Suite/MD_NAMD_suit.ipynb)
 
