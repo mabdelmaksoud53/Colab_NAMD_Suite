@@ -56,10 +56,6 @@ This repository provides a comprehensive setup for leveraging the computational 
 8. Automation and Reproducibility: Colab's notebook interface allows for the creation of well-documented, reproducible workflows. You can automate your simulations and analysis, making it easier to reproduce and verify your results.
 
 ---
-**Bugs**
-- If you encounter any bugs, please report the issue to https://github.com/mabdelmaksoud53/Colab_NAMD_Suite/issues
-
----
 ## License
 Copyright (c) 2024 [Mostafa S. Abd El-Maksoud](https://github.com/mabdelmaksoud53) \
 Distributed under the MIT License.
