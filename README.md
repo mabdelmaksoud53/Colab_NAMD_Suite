@@ -24,6 +24,9 @@ This repository provides a comprehensive setup for leveraging the computational 
 - Integrating various tools and platforms like CHARMM-GUI, Google Drive, Google Colab, and NAMD can significantly enhance the efficiency, accessibility, and overall experience of running MD simulations. This integrated workflow leverages the strengths of each component to provide a powerful solution for researchers. 
 
 ---
+![workflow](./Images/workflow.png)
+
+---
 **Tools and Platforms**
 1. CHARMM-GUI:
 - CHARMM-GUI provides an intuitive web-based interface for preparing complex molecular systems. It automates the generation of input files required for MD simulations, ensuring that the system is properly parameterized and ready for simulation.
